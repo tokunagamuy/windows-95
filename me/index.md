@@ -1,6 +1,6 @@
 ---
 layout: me
-title: Biography
+title: me
 ---
 
 # Introduction
