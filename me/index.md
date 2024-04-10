@@ -15,7 +15,7 @@ Yuma Tokunaga is an economist from Japan who primarily focuses on theoretical ec
 For simplicity, please refer to the menu bar at the top of this site for awards and research lists.
 
 # Languages
-- **Natural**: Japanese(native), Hungarian, English, Norwegian, Icelandic, French, Italian, Spanish, Turkish
+- **Natural**: Japanese(native), Hungarian, English, French, Spanish
 - **Machine**: Matlab, R, C#, HTML, CSS, JavaScript, Python
 
 # Other Information
